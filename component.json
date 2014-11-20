@@ -1,18 +1,26 @@
 {
-  "name": "propouser",
+  "name": "proposer",
   "repo": "vmariano/porpouser",
   "description": "Propouser icon for law/bill projects",
   "version": "0.0.1",
-  "keywords": ["icon", "profile", "ui"],
+  "keywords": [
+    "icon",
+    "profile",
+    "ui"
+  ],
   "dependencies": {
     "ripplejs/ripple": "0.5.3"
   },
   "development": {},
   "license": "MIT",
   "scripts": [
-    "propouser.js"
+    "proposer.js"
   ],
-  "styles": ["styles.css"],
-  "templates": [ "template.html" ],
+  "styles": [
+    "styles.css"
+  ],
+  "templates": [
+    "template.html"
+  ],
   "main": "proposer.js"
 }

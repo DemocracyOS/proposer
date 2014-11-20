@@ -1,9 +1,11 @@
 var ripple = require('ripple');
-var template = require('./template');
+var template = require('./template.html');
 
 /**
+ *  Create a proposer icon.
  *
- * @param data
+ * @param {Object} data
+ * @param {Object} data
  * @constructor
  */
 function Proposer (data) {
@@ -14,3 +16,5 @@ function Proposer (data) {
   var View = ripple(template);
   return new View(data);
 }
+
+module.exports = Proposer;

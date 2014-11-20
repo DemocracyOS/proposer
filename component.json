@@ -1,9 +1,14 @@
 {
-  "name": "propouser-icon",
-  "description": "Workflow for bills page.",
+  "name": "propouser",
+  "repo": "vmariano/porpouser",
+  "description": "Propouser icon for law/bill projects",
+  "version": "0.0.1",
+  "keywords": ["icon", "profile", "ui"],
   "dependencies": {
     "ripplejs/ripple": "0.5.3"
   },
+  "development": {},
+  "license": "MIT",
   "scripts": [
     "propouser.js"
   ],

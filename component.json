@@ -1,0 +1,13 @@
+{
+  "name": "propouser-icon",
+  "description": "Workflow for bills page.",
+  "dependencies": {
+    "ripplejs/ripple": "0.5.3"
+  },
+  "scripts": [
+    "propouser.js"
+  ],
+  "styles": ["styles.css"],
+  "templates": [ "template.html" ],
+  "main": "proposer.js"
+}

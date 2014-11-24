@@ -1,7 +1,7 @@
 {
   "name": "proposer",
-  "repo": "DemocracyOS/porpouser",
-  "description": "Propouser icon for law/bill projects",
+  "repo": "DemocracyOS/proposer",
+  "description": "Proposer icon for law/bill projects",
   "version": "0.0.1",
   "keywords": [
     "icon",

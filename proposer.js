@@ -12,7 +12,7 @@ var template = require('./template.html');
  * {String} data.authorUrl url to the author profile/page/external link
  * {String} data.name Name of the author
  * {String} data.affiliationTitle Affiliations of the author.
- * {String} data.affiliationUrl Afiliations of the url.
+ * {String} data.affiliationUrl Affiliations of the url.
  * {String} data.affiliation  name of the author.
  *
  * @constructor

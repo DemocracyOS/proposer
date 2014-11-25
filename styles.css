@@ -4,13 +4,12 @@
 
 .proposer a {
   display: inline-block;
-  float: left;
 }
 
 .proposer a img {
   display: inline-block;
-  max-height: 30px;
-  max-width: 30px;
+  height: 30px;
+  width: 30px;
   border-radius: 100%;
   margin-top: 1px;
 }
